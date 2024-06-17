@@ -135,12 +135,14 @@ Alternatively, you can check the scripts defined in the package.json file to und
   }
 }
 ```
+---
 
 ## Conclusion
 The Dev Restaurant Web App is a testament to the power and flexibility of modern web development techniques. By focusing on accessibility, mobile-first design, and PWA features, this project demonstrates how to build a web app that is both user-friendly and technologically advanced.
 
 Feel free to explore the repository and provide any feedback or suggestions. Thank you for your interest in the Dev Restaurant Web App!
 
+---------
 Thank you for checking out the Dev Restaurant Web App repository. We hope you find this project useful and informative. If you have any questions or need further assistance, feel free to reach out.
 
 Happy coding!
